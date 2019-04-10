@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ADS_FMS_OTA.dir/main.cc.o  -o ADS_FMS_OTA  -L/home/amygo/ADS_FMS_Cmake_CAN_TCP/lib -rdynamic lib/libADS_FMS_OTA_LIB.so -lidriving_can -lusbcan -lusbcan -lpthread -lrt -Wl,-Bstatic -lcrypto -lssl -Wl,-Bdynamic -lboost_filesystem -lboost_system -lboost_thread -Wl,-rpath,/home/amygo/ADS_FMS_Cmake_CAN_TCP/lib 
